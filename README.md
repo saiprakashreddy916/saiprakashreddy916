@@ -23,30 +23,12 @@ I focus on:
 
 Currently engineering analytics platforms at **Moody’s Investors Service**, transforming legacy analyst workflows into scalable cloud-ready systems.
 
----
-
 ## 🧠 Core Engineering Expertise
 
-```diff
-+ Enterprise Architecture
-+ Microservices & Micro Frontends
-+ Performance Optimization
-+ Secure Authentication Systems
-+ API Design & Scalability
-+ System Modernization
-+ Cloud Deployment & CI/CD
-
-<!--
-**saiprakashreddy916/saiprakashreddy916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✅ Enterprise Architecture
+- ✅ Microservices & Micro Frontends
+- ✅ Performance Optimization
+- ✅ Secure Authentication Systems
+- ✅ API Design & Scalability
+- ✅ System Modernization
+- ✅ Cloud Deployment & CI/CD
